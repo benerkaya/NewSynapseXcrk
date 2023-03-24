@@ -1,5 +1,5 @@
 # Ragnarok
-Java Botnet for Windows
+Java Botnet for Windows (Not released yet)
 
 ---EULA---
 
