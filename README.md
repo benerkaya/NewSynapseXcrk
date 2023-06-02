@@ -21,7 +21,7 @@ Step 3: Copy RagnarokBot.jar to "C:\ProgramData\Microsoft\Windows\Start Menu\Pro
 Step 4: Install Java 8 update 361 (lastest of Java 8) to that pc. Do not install Java versions that came after than Java 8 because they cause massive bugs. You can just download JavaSetup8u361.exe from this Github and use that to install perfect Java version for Ragnarok.
 
 Step 5: Start bot by double clicking that renamed jar file and then open Ragnarok app from your android device and then type name of your jar file to bot name section and press connect.
-When you send a command to a bot name then all of bots around the world which has that bot name on itself will execute that commands so make sure you note what name you used when renaming your jar file.
+When you send a command now Ragnarok server will share it with all bots which have same bot name on itself around the world so they will execute that commands so make sure you note what name you used when renaming your jar file.
 
 Step 6: After app says "Connected" you can pick any command from command list then send it to connected bots around the world.
 Keep reading to learn about how to modify command arguments.
